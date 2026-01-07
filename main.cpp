@@ -33,7 +33,7 @@ int main()
         label = "boy";
     }
 
-    cout << "There was a "<< label <<" named " << charName << endl;
+    cout << "There was multiple "<< label <<" named " << charName << endl;
     cout << pronoun <<" was " << charAge << " years old" << endl;
     cout << pronoun << " liked the name " << charName << endl;
     cout << "But did not like being " << charAge << endl;
